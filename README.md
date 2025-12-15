@@ -4,19 +4,17 @@
 ## Team Member 
 - [Jeremy Okyere]
 ## Project Tier
-**Tier [1]** - [Why this tier? What makes it this level?]--
+# Tier 1: CORE PROJECT (100 points possible)
 
-Tier 1: CORE PROJECT (100 points possible)
+# For: Everyone, especially beginners
 
-For: Everyone, especially beginners
+# Difficulty: ⭐⭐☆☆☆
 
-Difficulty: ⭐⭐☆☆☆
+# Time: Achievable in 5-6 weeks
 
-Time: Achievable in 5-6 weeks
+# Resources: Free tier (Colab/Kaggle)
 
-Resources: Free tier (Colab/Kaggle)
-
-Description: Simple CV project using pre-trained model
+# Description: Simple CV project using pre-trained model
 
 I chose this tier because since I was working independently I would want to do something easy. License Plate Detection is tier 1 because I can program with Google Collab and get my dataset from Kaggle which is exactly what I did. It's also tier 1 because I'm working with Yolo V8 which is a pre-trained model.
 
