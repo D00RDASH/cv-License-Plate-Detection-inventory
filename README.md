@@ -48,5 +48,5 @@ It provides a key vulnerability to exploit, as nearly all terrorist operations i
 
 **Key Libraries**: ultralytics, opencv-python
 
-### System Architecture
+## System Architecture
 [Include your system diagram - image or flowchart
