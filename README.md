@@ -20,7 +20,9 @@ Size:
 Link: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 # 🎯 Success Metrics
 Primary Metric: mAP50 (mean Average Precision at 50% IoU)
+
 Target: 90%+ detection accuracy
 Secondary Metrics:
 - Latency: <1 second per image (>10 FPS)
 - False Positive rate: <5% error
+# Week-by-Week Plan
