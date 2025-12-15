@@ -41,8 +41,11 @@ It provides a key vulnerability to exploit, as nearly all terrorist operations i
 ## Technical Details
 ### Approach- 
 **Task**: Object Detection
+
 **Model**: YOLOv8
+
 **Framework**: PyTorch
+
 **Key Libraries**: ultralytics, opencv-python
 ### System Architecture
 [Include your system diagram - image or flowchart
