@@ -1,4 +1,4 @@
-# [AI License Plate Detection]
+# AI License Plate Detection
 ![Demo Screenshot or GIF](results/demo.gif)
 *My project contains a model that analyzes license plate images and uses object detection to capture them in bounding boxes.*
 ## Team Member 
