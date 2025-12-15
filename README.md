@@ -2,7 +2,7 @@
 ![Demo Screenshot or GIF](results/demo.gif)
 *My project contains a model that analyzes license plate images and uses object detection to capture them in bounding boxes.*
 ## Team Member 
-- [Jeremy Okyere]
+- Jeremy Okyere
 ## Project Tier
 **Tier 1: CORE PROJECT (100 points possible)**
 
@@ -30,7 +30,6 @@ My solution is to develop an AI-based license-plate detection system capable of 
 The model is shown a bunch of license plate images. The YOLO model is supposed analyzes them and it detects the license plates using object detection.
 
 ### Impact
-[Who benefits? How much time/money saved? What's the value?]--
 
 #### Who benefits?
 
@@ -47,6 +46,7 @@ Policy Makers and Planners
 Communities and Schools
 
 #### How much time/money saved?
+[Type in answer]
 #### What's the value?
 It provides a key vulnerability to exploit, as nearly all terrorist operations involve vehicles for surveillance, transporting weapons, approaching targets, and escape attempts. 
 
@@ -61,4 +61,4 @@ It provides a key vulnerability to exploit, as nearly all terrorist operations i
 **Key Libraries**: ultralytics, opencv-python
 
 ## System Architecture
-[Include your system diagram - image or flowchart
+[Include your system diagram - image or flowchart]
