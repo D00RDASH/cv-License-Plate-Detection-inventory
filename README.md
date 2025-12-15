@@ -16,6 +16,7 @@ Size:
 - Training: 304 images
 - Validation: 44 images
 - Test: 85 images
+
 Link: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 # 🎯 Success Metrics
 Primary Metric: mAP50 (mean Average Precision at 50% IoU)
