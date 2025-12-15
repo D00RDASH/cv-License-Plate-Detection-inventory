@@ -20,8 +20,29 @@ The model is shown a bunch of license plate images. The YOLO model is supposed a
 ### Impact
 [Who benefits? How much time/money saved? What's the value?]--
 
+#### Who benefits?
+
+Law Enforcement Agencies
+
+Public Safety and Security Agencies
+
+Emergency Responders
+
+Public Heath and Safety Sectors
+
+Policy Makers and Planners
+
+Communities and Schools
+
+#### How much time/money saved?
+#### What's the value?
+It provides a key vulnerability to exploit, as nearly all terrorist operations involve vehicles for surveillance, transporting weapons, approaching targets, and escape attempts. 
 
 ## Technical Details
-### Approach- **Task**: Object Detection / Classification / Segmentation / VLM / etc.- **Model**: YOLOv8 / ResNet / CLIP / etc.- **Framework**: PyTorch / TensorFlow / Hugging Face- **Key Libraries**: ultralytics, opencv-python, etc.
+### Approach- 
+**Task**: Object Detection
+**Model**: YOLOv8
+**Framework**: PyTorch
+**Key Libraries**: ultralytics, opencv-python
 ### System Architecture
 [Include your system diagram - image or flowchart
