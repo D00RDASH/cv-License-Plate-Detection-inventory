@@ -1,28 +1,22 @@
-# cv-License-Plate-Detection-inventory
-# Team Member
-Jeremy Okyere - W215244428@student.hccs.edu
-# Project Tier
-Tier 1: This project uses YOLOv8 for object detection, which is a well-established approach suitable for beginners. We're focusing on getting solid fundamentals right rather than implementing cutting-edge techniques. 
-# 🎯 Problem Statement
-Law enforcement officers spend hours manually reviewing footage to identify vehicles linked to crimes or terror-related activities.
-# Solution Overview
-I'm building an AI-based license-plate detection system capable of identifying and localizing plates from images and videos. The system will train and process images under one minute.
-# 🔧 Technical Approach
-CV Technique: Object Detection
-Model: YOLOv8pt
-# Dataset
-Source: Kaggle
-Size:
-- Training: 304 images
-- Validation: 44 images
-- Test: 85 images
+# [AI License Plate Detection]
+![Demo Screenshot or GIF](results/demo.gif)
+*My project contains a model that analyzes license plate images and uses object detection to capture them in bounding boxes.*
+## Team Member 
+- [Jeremy Okyere]
+## Project Tier
+**Tier [1]** - [Why this tier? What makes it this level?]--
 
-Link: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
-# 🎯 Success Metrics
-Primary Metric: mAP50 (mean Average Precision at 50% IoU)
-
-Target: 90%+ detection accuracy
-Secondary Metrics:
-- Latency: <1 second per image (>10 FPS)
-- False Positive rate: <5% error
-# Week-by-Week Plan
+## Problem & Solution
+### The Problem
+[2-3 sentences: What real-world problem does this solve?]
+### Our Solution
+[2-3 sentences: How does your system solve it?]
+### Impact
+[Who benefits? How much time/money saved? What's the value?]--
+## 
+�
+�
+ Technical Details
+### Approach- **Task**: Object Detection / Classification / Segmentation / VLM / etc.- **Model**: YOLOv8 / ResNet / CLIP / etc.- **Framework**: PyTorch / TensorFlow / Hugging Face- **Key Libraries**: ultralytics, opencv-python, etc.
+### System Architecture
+[Include your system diagram - image or flowchart
