@@ -39,7 +39,7 @@ Communities and Schools
 It provides a key vulnerability to exploit, as nearly all terrorist operations involve vehicles for surveillance, transporting weapons, approaching targets, and escape attempts. 
 
 ## Technical Details
-### Approach- 
+### Approach
 **Task**: Object Detection
 
 **Model**: YOLOv8
@@ -47,5 +47,6 @@ It provides a key vulnerability to exploit, as nearly all terrorist operations i
 **Framework**: PyTorch
 
 **Key Libraries**: ultralytics, opencv-python
+
 ### System Architecture
 [Include your system diagram - image or flowchart
