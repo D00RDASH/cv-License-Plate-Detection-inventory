@@ -61,4 +61,6 @@ It provides a key vulnerability to exploit, as nearly all terrorist operations i
 **Key Libraries**: ultralytics, opencv-python
 
 ## System Architecture
-[Include your system diagram - image or flowchart]
+![License Plate Detection Diagram](https://github.com/user-attachments/assets/e0d42b6c-1050-4de5-b8f0-c53acc3aec63)
+
+
